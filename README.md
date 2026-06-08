@@ -16,35 +16,6 @@ This project is a **property data management system** developed as part of the f
 | **Sort Data** | Sort records ascending or descending by any column using bubble sort |
 | **Export Data** | Export the dataset to a new CSV file |
 
-## Project Structure
-
-`
-AOL_sem1/
-├── AOL-AlgoNo1.cpp    # String reverser with case toggling
-├── AOL-AlgoNo2.cpp    # Main property data management system
-├── filedata.csv        # Property listing dataset (Kuala Lumpur area)
-└── AOL_sem1.zip        # Original submission archive
-`
-
-## Dataset
-
-The dataset contains **~970 property listings** in the Kuala Lumpur area with attributes:
-- **Location** & **City**: Property address
-- **Price**: Listed price in MYR
-- **Rooms**, **Bathroom**, **Carpark**: Room counts
-- **Type**: Property type (e.g., Built-up)
-- **Furnish**: Furnishing status (Fully/Partly/Unfurnished)
-
-## How to Compile & Run
-
-`ash
-# Compile
-gcc AOL-AlgoNo2.cpp -o property-manager
-
-# Run
-./property-manager
-`
-
 ## What I Learned
 
 - Implementing **structured data types** (struct) in C
