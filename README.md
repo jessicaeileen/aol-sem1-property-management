@@ -31,4 +31,4 @@ This project was submitted as part of the Semester 1 AOL (Academic Online Learni
 
 ---
 
-*Built with C — Semester 1, 2026*
+*Built with C — Semester 1, 2024*
