@@ -1,6 +1,6 @@
 # Property Data Management System
 
-**Academic Online Learning (AOL) — Semester 1**  
+**Academic Online Learning (AOL) — Semester 1**
 *Language: C | Paradigm: Procedural Programming*
 
 ## Overview
@@ -18,17 +18,17 @@ This project is a **property data management system** developed as part of the f
 
 ## File Structure
 
-`
+```
 AOL_sem1/
 ├── AOL-AlgoNo1.cpp    # String reverser with case toggling
 ├── AOL-AlgoNo2.cpp    # Main property data management system
 └── filedata.csv        # Property listing dataset (Kuala Lumpur area)
-`
+```
 
 ## What I Learned
 
 - Implementing **structured data types** (struct) in C
-- **File I/O** — reading and writing CSV data with scanf/printf
+- **File I/O** — reading and writing CSV data with scanf/printf`r
 - **Bubble sort** algorithm for multi-column sorting
 - **String manipulation** using <string.h> functions
 - **Menu-driven console interface** design
