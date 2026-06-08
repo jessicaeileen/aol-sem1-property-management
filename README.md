@@ -16,6 +16,15 @@ This project is a **property data management system** developed as part of the f
 | **Sort Data** | Sort records ascending or descending by any column using bubble sort |
 | **Export Data** | Export the dataset to a new CSV file |
 
+## File Structure
+
+`
+AOL_sem1/
+├── AOL-AlgoNo1.cpp    # String reverser with case toggling
+├── AOL-AlgoNo2.cpp    # Main property data management system
+└── filedata.csv        # Property listing dataset (Kuala Lumpur area)
+`
+
 ## What I Learned
 
 - Implementing **structured data types** (struct) in C
@@ -31,4 +40,4 @@ This project was submitted as part of the Semester 1 AOL (Academic Online Learni
 
 ---
 
-*Built with C — Semester 1, 2024*
+*Built with C — Semester 1, 2026*
